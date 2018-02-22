@@ -1,6 +1,8 @@
 ---
 title: Test
-description: Test
+description: >-
+  Test
+
 
 ---
 ## Sample exercise
@@ -13,27 +15,25 @@ skills: 2
 key: 8027bfde9c
 ```
 
+Introduction
 
 `@instructions`
+Write hi on the screen
 
 `@hint`
 
-`@pre_exercise_code`
-```{python}
 
-```
 
-`@sample_code`
-```{python}
-
-```
 
 `@solution`
 ```{python}
-
+"hi"
 ```
-
 `@sct`
 ```{python}
-
+"hi"
 ```
+
+
+
+
